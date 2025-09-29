@@ -6,7 +6,7 @@ public class Demo2 {
 		System.out.println("Harshil");
 		System.out.println("Prashant");
 		System.out.println("Sagar");
-		system.out.println("Lalit");
+		System.out.println("Lalit");
 	}
 
 }
