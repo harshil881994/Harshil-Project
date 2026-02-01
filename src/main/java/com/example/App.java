@@ -9,6 +9,7 @@ import org.apache.spark.api.java.JavaSparkContext;
 import org.apache.spark.api.java.function.FlatMapFunction;
 
 public class App {
+	
     public static void main(String[] args) {
         // Set up Spark configuration
         SparkConf conf = new SparkConf()
